@@ -55,5 +55,10 @@ Ejercicio de maquetación 01
 
  ### Iconos redes sociales:
      Diseño de iconos redes sociales, estos no fueron entregados por el diseñador.
-
+## - SKETCH DESKTOP
+![](img-maqueta/sketch-desktop.png?raw=true)
+    
      
+## - SKETCH MOBIL
+![](img-maqueta/sketch-mobil.png?raw=true)
+    
