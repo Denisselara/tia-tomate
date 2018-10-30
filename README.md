@@ -62,3 +62,19 @@ Ejercicio de maquetación 01
 ## - SKETCH MOBIL
 ![](img-maqueta/sketch-mobil.png?raw=true)
     
+## - CLASES PARA CSS
+
+.navbar{}
+.navbar-logo{}
+.navbar-navigation{}
+.encabezado{}
+.block
+.block--grey{}
+.block--white{}
+.img-responsive{}
+.boton-tiatomate{}
+.container{}
+.container-fluid{}
+
+
+
